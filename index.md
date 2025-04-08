@@ -1,8 +1,3 @@
----
-layout: default
-title: Basecamp Mutual Aid
----
-
 # Basecamp Mutual Aid
 
 We provide direct financial assistance to service workers through in-person, privacy-respecting support.
@@ -30,13 +25,6 @@ Verified nonprofit organization
 - All transactions handled offline via verified human contact
 
 > “We operate offline, in person, and without data collection. That’s the point.”
-
-```
-No JS.  
-No cookies.  
-No tracking.  
-No backend.
-```
 
 ---
 
