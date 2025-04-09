@@ -45,7 +45,7 @@ This site exists to meet payment service provider requirements.
 
 ---
 
-## Required Disclosures (for Stripe & Partners)
+## Required Disclosures 
 
 **Contact:**  
 All donor questions are handled in person by local volunteers.  
