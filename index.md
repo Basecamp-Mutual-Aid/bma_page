@@ -49,10 +49,10 @@ This site exists to meet payment service provider requirements.
 
 **Contact:**  
 All donor questions are handled in person by local volunteers.  
-For Stripe or partner compliance questions, email: [contact@basecampmutualaid.org](mailto:contact@basecampmutualaid.org)
+For partner compliance questions, email: [contact@basecampmutualaid.org](mailto:contact@basecampmutualaid.org)
 
 **Refund & Cancellation Policy:**  
-We do not sell physical goods or services. Donations are voluntary and handled in person and there are no recurring donations.
+We do not sell physical goods or services. Donations are voluntary, handled in person, and there are no recurring donations.
 
 **Export Restrictions, Promotions, or Terms:**  
 Not applicable.
