@@ -44,7 +44,7 @@ We are a Colorado nonprofit providing in-person, privacy-respecting financial as
 
 ### Currently serving
 
-Steamboat Springs, Colorado
+- Steamboat Springs, Colorado
 
 ---
 
