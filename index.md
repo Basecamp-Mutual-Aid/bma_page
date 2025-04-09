@@ -11,7 +11,12 @@
   }
 
   a {
-    color: #58a6ff;
+    color: #6599ee;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 
   img {
