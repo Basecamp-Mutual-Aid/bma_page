@@ -3,6 +3,8 @@ layout: default
 title: Basecamp Mutual Aid
 ---
 
+# Basecamp Mutual Aid
+
 **EIN:**  
 12-3456789
 
