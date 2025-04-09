@@ -53,7 +53,7 @@ This site exists to meet payment service provider requirements.
 
 **Contact:**  
 All donor questions are handled in person by local volunteers.  
-For partner compliance questions, email: [contact@basecampmutualaid.org](mailto:contact@basecamp-mutual-aid.org)
+For partner compliance questions, email: [contact@basecamp-mutual-aid.org](mailto:contact@basecamp-mutual-aid.org)
 
 **Refund & Cancellation Policy:**  
 We do not sell physical goods or services. Donations are voluntary, handled in person, and there are no recurring donations.
