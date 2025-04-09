@@ -1,10 +1,7 @@
-# Basecamp Mutual Aid
-
-We provide direct financial assistance to service workers through in-person, privacy-respecting support.
-
 ---
-
-## Legal Verification
+layout: default
+title: Basecamp Mutual Aid
+---
 
 **EIN:**  
 12-3456789
@@ -17,40 +14,45 @@ Verified nonprofit organization
 
 ---
 
-## Operating Principles
+## Our Approach to Privacy
 
-- No personal data collected
-- No online donations
-- No digital forms
-- All transactions handled offline via verified human contact
+- No personal data or contact information collected  
+- No online donations or grants  
+- No digital forms  
 
-> “We operate offline, in person, and without data collection. That’s the point.”
+> “We operate offline, in person, and without data collection.”
+
+---
+
+## Donations and Grants
+
+- Donations and grants are initiated in person, never online.  
+- Grants are securely processed through trusted payment service providers. These processors may require personally identifiable information as part of the transaction. This information is never shared with us.  
+- Donations can be made using major credit and debit cards, Apple Pay, Link, Cash App Pay, or Amazon Pay. We do not accept Google Pay due to privacy concerns.
+- All payments are processed by a trusted and familiar payment service provider. 
 
 ---
 
 ## Donation Questions?
 
-If there's an issue with your donation, just bring it up to your local volunteer. They'll make it right.
-
-We don't process online returns or disputes. All donations are given in person or via secure links from verified volunteers.
+If there's an issue with your donation, bring it up to your local volunteer. They'll make it right.
 
 ---
 
 ## Why This Site Exists
 
-This site exists only to confirm our nonprofit status.  
-There are no forms, no logins, no tracking, and no donation processing here.  
-Everything we do happens face to face.
+This site exists to meet payment service provider requirements.
 
 ---
 
 ## Required Disclosures (for Stripe & Partners)
 
 **Contact:**  
-All donor questions are handled in person by local volunteers.
+All donor questions are handled in person by local volunteers.  
+For Stripe or partner compliance questions, email: [contact@basecampmutualaid.org](mailto:contact@basecampmutualaid.org)
 
 **Refund & Cancellation Policy:**  
-We do not sell physical goods or services. Donations are voluntary, and any concerns can be resolved directly with your local BMA volunteer.
+We do not sell physical goods or services. Donations are voluntary and handled in person and there are no recurring donations.
 
 **Export Restrictions, Promotions, or Terms:**  
 Not applicable.
