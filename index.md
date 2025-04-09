@@ -66,7 +66,7 @@ Verified nonprofit organization
 - Donations and grants are initiated in person, never online.  
 - Grants are securely processed through trusted payment service providers. These processors may require personally identifiable information as part of the transaction. This information is never shared with us.  
 - Donations can be made using major credit and debit cards, Apple Pay, Link, Cash App Pay, or Amazon Pay. We do not accept Google Pay due to privacy concerns.
-- All payments are processed by a trusted and familiar payment service provider. 
+- All transactions are processed by a trusted and familiar payment service provider. 
 
 ---
 
