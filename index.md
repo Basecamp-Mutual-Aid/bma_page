@@ -27,6 +27,13 @@
   h1, h2, h3, h4 {
     color: #ffffff;
   }
+
+  hr {
+    border: none;
+    border-top: 1px solid #2e343b;
+    margin: 2rem 0;
+  }
+
 </style>
 
 <img src="img/logo.png" alt="Basecamp Mutual Aid" style="float: right; width: 120px; margin-left: 20px;" />
