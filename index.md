@@ -1,8 +1,3 @@
----
-layout: default
-title: Basecamp Mutual Aid
----
-
 <img src="img/logo.png" alt="Basecamp Mutual Aid" style="float: right; width: 120px; margin-left: 20px;" />
 
 # Basecamp Mutual Aid
