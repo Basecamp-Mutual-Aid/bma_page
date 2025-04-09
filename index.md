@@ -40,16 +40,7 @@
 
 # Basecamp Mutual Aid
 
-We are a 501(c)(3) nonprofit that provides in-person, privacy-respecting financial assistance to service industry workers in Colorado through instantly available microgrants.
-
-**EIN:**  
-12-3456789
-
-**Registered State:**  
-Colorado
-
-**501(c)(3) Status:**  
-Verified nonprofit organization
+We are a Colorado nonprofit providing in-person, privacy-respecting financial assistance to Colorado service industry workers through instantly available microgrants.
 
 ---
 
@@ -95,4 +86,8 @@ We do not sell physical goods or services. Donations are voluntary, handled in p
 
 **Export Restrictions, Promotions, or Terms:**  
 Not applicable.
+
+**Tax Status:**  
+EIN: 12-3456789
+Colorado nonprofit; 501(c)(3) status not yet granted
 
