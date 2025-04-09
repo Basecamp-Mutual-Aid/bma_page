@@ -42,7 +42,8 @@
 
 We are a Colorado nonprofit providing in-person, privacy-respecting financial assistance to service industry workers.  
 
-**Currently serving:**  
+### Currently serving
+
 Steamboat Springs, Colorado
 
 ---
