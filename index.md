@@ -30,7 +30,7 @@
 
   hr {
     border: none;
-    border-top: 1px solid #2e343b;
+    border-top: 1.2px solid #2e343b;
     margin: 2rem 0;
   }
 
