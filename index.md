@@ -40,8 +40,7 @@
 
 # Basecamp Mutual Aid
 
-We are a Colorado nonprofit providing in-person, privacy-respecting financial assistance to Colorado service industry workers through instantly available microgrants.
-
+We are a Colorado nonprofit providing in-person, privacy-respecting financial assistance to service industry workers in areas where we have vetted local representatives.
 ---
 
 ## Our Approach to Privacy
@@ -86,6 +85,9 @@ We do not sell physical goods or services. Donations are voluntary, handled in p
 
 **Export Restrictions, Promotions, or Terms:**  
 Not applicable.
+
+**Currently Serving:**  
+Steamboat Springs, Colorado
 
 **Tax Status:**  
 EIN: 12-3456789
