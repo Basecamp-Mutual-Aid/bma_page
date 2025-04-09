@@ -40,6 +40,8 @@
 
 # Basecamp Mutual Aid
 
+We are a 501(c)(3) nonprofit that provides in-person, privacy-respecting financial assistance to service workers through instantly available microgrants.
+
 **EIN:**  
 12-3456789
 
