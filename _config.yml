@@ -1,4 +1,4 @@
 title: Basecamp Mutual Aid
 description: Static legal-verification site
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-primer
