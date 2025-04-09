@@ -41,6 +41,7 @@
 # Basecamp Mutual Aid
 
 We are a Colorado nonprofit providing in-person, privacy-respecting financial assistance to service industry workers in areas where we have vetted local representatives.
+
 ---
 
 ## Our Approach to Privacy
